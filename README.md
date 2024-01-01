@@ -32,7 +32,7 @@ The app has over 5,000 active users.
 </a>
 
 
-## 🌐 Technical Skills
+## 🌐 Tech Expertise
 
 
 ### Programming Languages
@@ -95,10 +95,3 @@ The app has over 5,000 active users.
   <img src="https://img.shields.io/badge/Pulumi-512BD4?style=for-the-badge&logo=pulumi&logoColor=white" alt="Pulumi (Terraform)"/>
 </div>
 
-### Additional Skills
-<div style="display: flex; gap: 8px;">
-  <img src="https://img.shields.io/badge/System_Design-555555?style=for-the-badge&logo=system-design&logoColor=white" alt="System Design"/>
-  <img src="https://img.shields.io/badge/Blockchain_(Ethereum)-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="Blockchain (Ethereum)"/>
-  <img src="https://img.shields.io/badge/Database_Design-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="Database Design"/>
-  <img src="https://img.shields.io/badge/Software_Testing-Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Software Testing (Selenium)"/>
-</div>
