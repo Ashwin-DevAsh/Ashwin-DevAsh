@@ -19,6 +19,12 @@ The application boasts a user base of over 15,000 active users.
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Download on the Google Play Store" width="200">
 </a>
 
+### [rPay](https://github.com/Ashwin-DevAsh/rPay)
+[<img src="https://i.postimg.cc/Fs0rhC1w/ic-launcher-playstore.png" alt="rPay Logo" width="50"/>](https://github.com/YourUsername/rPay)
+
+**rPay: College Payment Application**
+A robust Android application developed using Kotlin in Android Studio, rPay simplifies financial transactions for college students within the campus. The app offers a user-friendly interface to load money into wallets through various payment methods, fostering seamless spending within the college premises.
+
 ### [rMart](https://github.com/Ashwin-DevAsh/rMart)
 [<img src="https://play-lh.googleusercontent.com/oJ3bOlsP9fN6gSTV6h9s47BlSR4Vf0WnDY8VtqmZJfOGTFTxKuryK4h3ufyvDJMr2mk=w240-h480-rw" alt="rMart Logo" width="50"/>](https://github.com/YourUsername/rMart)
 
@@ -31,11 +37,7 @@ The app has over 5,000 active users.
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Download on the Google Play Store" width="200">
 </a>
 
-### [rPay](https://github.com/Ashwin-DevAsh/rPay)
-[<img src="https://i.postimg.cc/Fs0rhC1w/ic-launcher-playstore.png" alt="rPay Logo" width="50"/>](https://github.com/YourUsername/rPay)
 
-**rPay: College Payment Application**
-A robust Android application developed using Kotlin in Android Studio, rPay simplifies financial transactions for college students within the campus. The app offers a user-friendly interface to load money into wallets through various payment methods, fostering seamless spending within the college premises.
 
 ## 🌐 Technical Skills
 
