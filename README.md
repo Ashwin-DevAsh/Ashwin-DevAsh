@@ -31,7 +31,7 @@ The app has over 5,000 active users.
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Download on the Google Play Store" width="200">
 </a>
 
-## Other Projects You Could Consider Checking
+## Other Projects You Could Consider Checking :
 
 | Mobile Development | Web Development | Backend Development |
 | --- | --- | --- |
