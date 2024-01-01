@@ -46,7 +46,7 @@ The app has over 5,000 active users.
 | [rPay](https://github.com/Ashwin-DevAsh/rPay)| [rPay Console](https://github.com/Ashwin-DevAsh/rPay-Admin) | [rPay Backend](https://github.com/Ashwin-DevAsh/rPay-Backend) |
 |[rPay Business](https://github.com/Ashwin-DevAsh/rPay-Business) | | [rPay Backend V2](https://github.com/Ashwin-DevAsh/rPay-Backend-v2) 
 
-### Freelancing
+### Freelancing Projects
 
 | Mobile Development | Web Development | Backend Development |
 | --- | --- | --- |
