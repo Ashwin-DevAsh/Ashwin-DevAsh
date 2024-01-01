@@ -11,19 +11,13 @@ Here are some of the projects I've worked on:
 [<img src="https://i.postimg.cc/4x8S1K61/tech-Dev-Ash-key-OS-icon.png" alt="KeyOS Logo" width="50"/>](https://github.com/YourUsername/KeyOS)
 
 **KeyOS: Innovative Android Kiosk Launcher**
-KeyOS is an innovative Android Kiosk Launcher developed using Android Studio, Kotlin, and Java. It serves as a powerful tool to restrict user access and ensure a secure, controlled environment for specific applications. By replacing the default home screen with a customizable interface, KeyOS prevents users from accessing unintended apps, providing a unique solution for various use cases.
+KeyOS is an Android Kiosk Launcher crafted with Android Studio, Kotlin, and Java. This innovative tool secures and controls user access by replacing the default home screen with a customizable interface. It ensures a controlled environment, preventing unintended app access for various use cases.
 
 The application boasts a user base of over 15,000 active users.
 
 <a href="https://www.amazon.in/KeyOS-Kiosk-Lockdown-Child-Blocker/dp/B08R95FPFF">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Download on the Google Play Store" width="200">
 </a>
-
-### [rPay](https://github.com/Ashwin-DevAsh/rPay)
-[<img src="https://i.postimg.cc/Fs0rhC1w/ic-launcher-playstore.png" alt="rPay Logo" width="50"/>](https://github.com/YourUsername/rPay)
-
-**rPay: College Payment Application**
-A robust Android application developed using Kotlin in Android Studio, rPay simplifies financial transactions for college students within the campus. The app offers a user-friendly interface to load money into wallets through various payment methods, fostering seamless spending within the college premises.
 
 ### [rMart](https://github.com/Ashwin-DevAsh/rMart)
 [<img src="https://play-lh.googleusercontent.com/oJ3bOlsP9fN6gSTV6h9s47BlSR4Vf0WnDY8VtqmZJfOGTFTxKuryK4h3ufyvDJMr2mk=w240-h480-rw" alt="rMart Logo" width="50"/>](https://github.com/YourUsername/rMart)
@@ -36,6 +30,14 @@ The app has over 5,000 active users.
 <a href="https://play.google.com/store/apps/details?id=com.DevAsh.RMart&hl=en_IN&gl=IN">
   <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Download on the Google Play Store" width="200">
 </a>
+
+### [rPay](https://github.com/Ashwin-DevAsh/rPay)
+[<img src="https://i.postimg.cc/Fs0rhC1w/ic-launcher-playstore.png" alt="rPay Logo" width="50"/>](https://github.com/YourUsername/rPay)
+
+**rPay: College Payment Application**
+A robust Android application developed using Kotlin in Android Studio, rPay simplifies financial transactions for college students within the campus. The app offers a user-friendly interface to load money into wallets through various payment methods, fostering seamless spending within the college premises.
+
+
 
 
 
