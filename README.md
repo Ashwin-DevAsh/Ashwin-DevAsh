@@ -35,29 +35,29 @@ The app has over 5,000 active users.
 
 ### rPay
 
-| Mobile Development | Web Development | Backend Development |
-| --- | --- | --- |
-| [rPay](https://github.com/Ashwin-DevAsh/rPay)| [rPay Console](https://github.com/Ashwin-DevAsh/rPay-Admin) | [rPay Backend](https://github.com/Ashwin-DevAsh/rPay-Backend) |
-|[rPay Business](https://github.com/Ashwin-DevAsh/rPay-Business) | | [rPay Backend V2](https://github.com/Ashwin-DevAsh/rPay-Backend-v2) 
+| Mobile Development | Web Development | Backend Development | Desktop Development |
+| --- | --- | --- | --- |
+| [rPay](https://github.com/Ashwin-DevAsh/rPay) | [rPay Console](https://github.com/Ashwin-DevAsh/rPay-Admin) | [rPay Backend](https://github.com/Ashwin-DevAsh/rPay-Backend) | |
+| [rPay Business](https://github.com/Ashwin-DevAsh/rPay-Business) | | [rPay Backend V2](https://github.com/Ashwin-DevAsh/rPay-Backend-v2) | |
 
 ### rMart
 
-| Mobile Development | Web Development | Backend Development |
-| --- | --- | --- |
-| |  | [rMart Backend](https://github.com/Ashwin-DevAsh/rMart-Backend) |
+| Mobile Development | Web Development | Backend Development | Desktop Development |
+| --- | --- | --- | --- |
+|  |  | [rMart Backend](https://github.com/Ashwin-DevAsh/rMart-Backend) |  [rMart Scanner](https://github.com/Ashwin-DevAsh/rMart-Scanner)  |
 
 ### KeyOS
 
-| Mobile Development | Web Development | Backend Development |
-| --- | --- | --- |
-| [KeyOS Admin](https://github.com/Ashwin-DevAsh/KeyOS-Dev-Console) | [KeyOS Console](https://github.com/Ashwin-DevAsh/KeyOS-Console) | [KeyOS Backend](https://github.com/Ashwin-DevAsh/KeyOS-Backend) |
+| Mobile Development | Web Development | Backend Development | Desktop Development |
+| --- | --- | --- | --- |
+| [KeyOS Admin](https://github.com/Ashwin-DevAsh/KeyOS-Dev-Console) | [KeyOS Console](https://github.com/Ashwin-DevAsh/KeyOS-Console) | [KeyOS Backend](https://github.com/Ashwin-DevAsh/KeyOS-Backend) | |
 
 ### Freelancing Projects
 
-| Mobile Development | Web Development | Backend Development |
-| --- | --- | --- |
-| [FarmToHome](https://github.com/Ashwin-DevAsh/FarmToHome) |  |  |
-| [Agro Traders](https://github.com/Ashwin-DevAsh/Agro-Traders) |  |  |
+| Mobile Development | Web Development | Backend Development | Desktop Development |
+| --- | --- | --- | --- |
+| [FarmToHome](https://github.com/Ashwin-DevAsh/FarmToHome) |  |  |  |
+| [Agro Traders](https://github.com/Ashwin-DevAsh/Agro-Traders) |  |  |  |
 
 
 
